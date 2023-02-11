@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "attributes": {
+                "createdAt": "2023-02-10T12:06:25.665Z",
+                "updatedAt": "2023-02-10T12:06:27.616Z",
+                "publishedAt": "2023-02-10T12:06:27.614Z",
+                "text": "Мы проанализируем ваши бизнес-процессы, покажем возможности для оптимизации, полностью переведем их в цифровую среду",
+                "richtext": "Внутри Приложения реализованы\n**ТРИ ОСНОВНЫХ ЭЛЕМЕНТА**:\n\n```\n<span class=\"element__text\">\nОцифровка бизнес-процессов и алгоритмов в компании макро- и микроуровня с использованием BPMN-нотации.</span>\n```",
+                "number": 20.56,
+                "text_html": "<h1 class=\"main__title\">\n<span class=\"main__title main__title--bold\">DBS-</span><span class=\"main__title main__title--color\">Soft</span> —эко-система для взаимодействия компании с&nbsp;партнерами:\nпоставщиками, посредниками, клиентами и&nbsp;cотрудниками.\n</h1>"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
+
+[
+    {
+        "id": 1,
+        "name": "1.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 744,
+        "height": 912,
+        "formats": {
+            "thumbnail": {
+                "name": "thumbnail_1.png",
+                "hash": "thumbnail_1_d2e878b6fb",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 127,
+                "height": 156,
+                "size": 10.53,
+                "url": "/uploads/thumbnail_1_d2e878b6fb.png"
+            },
+            "small": {
+                "name": "small_1.png",
+                "hash": "small_1_d2e878b6fb",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 408,
+                "height": 500,
+                "size": 71.32,
+                "url": "/uploads/small_1_d2e878b6fb.png"
+            },
+            "medium": {
+                "name": "medium_1.png",
+                "hash": "medium_1_d2e878b6fb",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 612,
+                "height": 750,
+                "size": 141.56,
+                "url": "/uploads/medium_1_d2e878b6fb.png"
+            }
+        },
+        "hash": "1_d2e878b6fb",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 31.97,
+        "url": "/uploads/1_d2e878b6fb.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2023-02-10T12:00:27.512Z",
+        "updatedAt": "2023-02-10T12:00:27.512Z"
+    },
+    {
+        "id": 2,
+        "name": "akap.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 359,
+        "height": 97,
+        "formats": null,
+        "hash": "akap_bca7135ad0",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 7.32,
+        "url": "/uploads/akap_bca7135ad0.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2023-02-10T12:06:15.326Z",
+        "updatedAt": "2023-02-10T13:21:38.900Z"
+    },
+    {
+        "id": 3,
+        "name": "adindex.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 365,
+        "height": 73,
+        "formats": null,
+        "hash": "adindex_4dc56d6ab0",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 3.26,
+        "url": "/uploads/adindex_4dc56d6ab0.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2023-02-10T12:06:15.331Z",
+        "updatedAt": "2023-02-10T12:06:15.331Z"
+    },
+    {
+        "id": 4,
+        "name": "sostav.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2686,
+        "height": 705,
+        "formats": null,
+        "hash": "sostav_eeb851f881",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 5.51,
+        "url": "/uploads/sostav_eeb851f881.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2023-02-10T12:06:15.343Z",
+        "updatedAt": "2023-02-10T12:06:15.343Z"
+    }
+]
