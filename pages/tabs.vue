@@ -8,11 +8,12 @@
             <Tab title="Tab 4">Hello from Tab 4</Tab>
 
         </TabWrapper>
+        <LogoM></LogoM>
     </div>
 </template>
 
-<script>
-
+<script setup>
+import LogoM from '@/assets/img/general/Easy-logo.svg'
 </script>
 
 <style lang="scss">
